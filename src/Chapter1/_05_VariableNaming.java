@@ -44,9 +44,5 @@ public class _05_VariableNaming {
         System.out.println(flightNo + " " + flight_No_2 + " " + _flightNo);
         System.out.println("동반 인원은 " + accompany + "명이며 체류 기간은 총 " + lengthOfStay + "일입니다");
         System.out.println("가져오신 물건은 " + item1 + ", " + item2 + ", " + item3 + "입니다.");
-
     }
-
-
-
 }
