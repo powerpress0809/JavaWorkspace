@@ -27,7 +27,7 @@ public class _10_Break {
         //While 문
         //while 문은 변수를 따로 선언을 해줘야함.
         int customer = 50; // 손님 50명
-            chicken = 20;  // 치킨 20마리
+
 
         while (customer >= 1){
 
