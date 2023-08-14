@@ -30,7 +30,7 @@ public class _08_StarField {
         //*********
 
         for (int i = 1; i <= 5; i++) { // 마지막 전체 구동
-            for (int j = 1; j <= 5-i; j++) {
+            for (int j = 1; j <= 5 - i; j++) {
                 System.out.print(" ");
             }
              for (int k = 1; k <= i * 2 - 1; k++) {
@@ -49,7 +49,7 @@ public class _08_StarField {
         //    *
 
         for (int i = 5; i >= 1; i--) { // 마지막 전체 구동
-            for (int j = 1; j <= 5-i; j++) {
+            for (int j = 1; j <= 5 - i; j++) {
                 System.out.print("S");
             }
             for (int k = 1; k <= i * 2 - 1; k++) {
