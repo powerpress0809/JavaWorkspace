@@ -51,6 +51,5 @@ public class _01_Array {
 
         double[] d = new double[] {10.0, 11.2, 13.5};
         boolean[] b = {true, false, true};
-
     }
 }
